@@ -1,6 +1,6 @@
 {
   "name": "gsp-deploy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Deploy files in Gsp projects.",
   "keywords": [
     "git",
@@ -31,7 +31,7 @@
     "commander": "^2.9.0",
     "di": "0.0.1",
     "fs-extra": "^0.26.2",
-    "gsp": "^0.4.0",
+    "gsp": "^0.5.0",
     "imagemin": "^3.2.0",
     "uglify-js": "^2.6.1"
   },
